@@ -1,0 +1,31 @@
+{
+  "category": [
+    {
+      "name":"General",
+      "id":1
+    }
+  ],
+  "todo": [
+    {
+      "category_id":1,
+      "is_starred":0,
+      "title":"Belajar Flutter",
+      "desc": "Deadline 26 Juli",
+      "id":1
+    },
+    {
+      "category_id":1,
+      "is_starred":0,
+      "title":"Tugas Kuliah",
+      "desc": "Deadline 28 Juli",
+      "id":2
+    },
+    {
+      "category_id":1,
+      "is_starred":0,
+      "title":"Event game",
+      "desc": "Last 28 Juli",
+      "id":3
+    }
+  ]
+}
